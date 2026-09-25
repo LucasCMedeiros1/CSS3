@@ -1,0 +1,17 @@
+#cabecalho {
+  background-color: white;
+  color: red;
+}
+
+.pd {
+  background-color: white;
+}
+
+body {
+  background-color: grey;
+}
+
+p {
+  font-family: Arial;
+  background-color: grey;
+}
